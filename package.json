@@ -1,0 +1,26 @@
+{
+  "name": "gulp-multi-domain",
+  "version": "0.0.1",
+  "description": ".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:mlinquan/gulp-multi-domain.git"
+  },
+  "keywords": [
+    "gulp",
+    "multi",
+    "domain",
+    "cdn"
+  ],
+  "author": "LinQuan",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  },
+  "readmeFilename": "README.md"
+}
